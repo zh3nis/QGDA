@@ -1,5 +1,5 @@
-# EDA
-Epanechnikov Discriminant Analysis
+# QGDA
+q-Gaussian Discriminant Analysis
 
 `qgda.py` provides one `SimplexQGaussianHead` for the compact-support
 family `q < 1`. TP (Epanechnikov) is `q=0`; biweight is `q=0.5`.
